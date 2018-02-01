@@ -380,7 +380,7 @@ The computation in _A_ assumes independent symbols. The computation in _D_ yield
 2. Better Concentration of information
 3. Can be equal to KLT for markovian images
 
-![cameraman_dct_vs_dft](/Users/roman/Documents/cameraman_dct_vs_dft.png)
+![cameraman_dct_vs_dft](cameraman_dct_vs_dft.png)
 
 
 
